@@ -3,4 +3,5 @@ module.exports = {
         './app/index/js'
     ],
     output: 
+    asd
 }
